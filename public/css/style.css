@@ -1,4 +1,7 @@
 
+body {
+    background-color: lightgrey;
+}
 .container {
     margin: 0 2vw;
     color: slategrey;
@@ -7,7 +10,7 @@
 
 .header {
     display: flex;
-    background-color: lightgray;
+    background-color: slategray;
 }
 
 .header .logo-container {
