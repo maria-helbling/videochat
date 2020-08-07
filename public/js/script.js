@@ -1,4 +1,5 @@
 //URL of my web server + socket connection
+//https://mhvideochat.herokuapp.com/
 const url = 'localhost:3000';
 const socket = io.connect(url);
 //media connection variables
