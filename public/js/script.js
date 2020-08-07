@@ -1,6 +1,6 @@
 //URL of my web server + socket connection
 //https://mhvideochat.herokuapp.com/
-const url = 'localhost:3000';
+const url = 'https://mhvideochat.herokuapp.com/';
 const socket = io.connect(url);
 //media connection variables
 const { RTCPeerConnection, RTCSessionDescription } = window;
